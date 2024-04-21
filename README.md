@@ -10,7 +10,6 @@ Hola, un cordial saludo mi nombre es Mauricio Alonso Menacho Apolitano, estudio 
 # 📊 Webs:
 AniMauls ❤️‍🔥
 (sept. 2023 - actualidad)
-LINK: ➡️ https://animauls.netlify.app ⬅️
 
 AniMauls es un emocionante proyecto que he desarrollado para mostrar mi pasión por la naturaleza y los animales, al mismo tiempo que demuestro mis habilidades en el desarrollo web. Esta galería de imágenes es un escaparate interactivo que combina tecnologías modernas.
 
@@ -18,6 +17,8 @@ Tecnologías Utilizadas:
 Frontend: HTML, CSS, JavaScript.
 Framework de Diseño: Bootstrap.
 Aptitudes: HTML · Hojas de estilos en cascada (CSS) · Git · Bootstrap · JavaScript
+
+LINK: ➡️ https://animauls.netlify.app ⬅️
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
