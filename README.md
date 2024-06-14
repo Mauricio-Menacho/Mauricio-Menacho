@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-Hola, un cordial saludo mi nombre es Mauricio Alonso Menacho Apolitano, estudio en el Instituto Superior Cibertec (PERÚ), me gusta mucho aprender nuevos temas, me interesa mucho los temas de programación y matemáticas, me gusta siempre estar informado sobre lo nuevo en programación, practico mucho resolviendo problemas de programación y creando algunas aplicaciones.
+Hola, un cordial saludo mi nombre es Mauricio Alonso Menacho Apolitano, Soy apasionado por la Tecnología e Información TI, me gusta mucho aprender nuevas cosas, me interesa mucholos temas de programación, infraestructura, matemáticas y más, me gusta siempre estar informado sobre lo nuevo en programación, TI y AI (Inteligencia Artificial), practico mucho resolviendo problemas de programación y creando aplicaciones.
 
 
 ## 🌐 Redes Sociales:
