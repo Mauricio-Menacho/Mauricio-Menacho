@@ -29,7 +29,7 @@ LINK: ➡️ https://kdramatunes.netlify.app/ ⬅️
 🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤
 
 
-AniMauls ❤️‍🔥
+AniMauls 🐶🐸🐽
 (sept. 2023 - actualidad)
 
 AniMauls es un emocionante proyecto que he desarrollado para mostrar mi pasión por la naturaleza y los animales, al mismo tiempo que demuestro mis habilidades en el desarrollo web. Esta galería de imágenes es un escaparate interactivo que combina tecnologías modernas.
