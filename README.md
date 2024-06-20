@@ -72,7 +72,7 @@ Características:
 
 Descargar Juego: ➡️ https://www.mediafire.com/file/ihe0cfix7lbuieg/Serpiente_Comelona_By_Mauricio.rar/file ⬅️
 
-<iframe src="https://drive.google.com/file/d/1mShMoOq1XfRT1d1GX6GyoXUEVi4Xe6cV/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1mShMoOq1XfRT1d1GX6GyoXUEVi4Xe6cV/preview" width="640" height="480" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
