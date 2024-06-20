@@ -84,7 +84,4 @@ Descargar Juego: ➡️ https://www.mediafire.com/file/ihe0cfix7lbuieg/Serpiente
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<iframe src="https://giphy.com/embed/kEsMM3WFkwMh6yqEaK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kEsMM3WFkwMh6yqEaK">via GIPHY</a></p>
-
-Gracias por pasarte por aqui, salu2.
+# Gracias por pasarte por aqui, salu2.
