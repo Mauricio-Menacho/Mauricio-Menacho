@@ -74,13 +74,13 @@ Características:
 
 Descargar Juego: ➡️ https://www.mediafire.com/file/ihe0cfix7lbuieg/Serpiente_Comelona_By_Mauricio.rar/file ⬅️
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1rYjZoNGJxc3V6ZXd0MWZzYXM3eXRsMHMxMWRkbmhkMHFlbG5mNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ldDRJ7BQW0UKP2ZHCr/giphy.gif" alt="Descripción opcional del GIF" style="height: 400px;">
+<img src="" style="height: 400px;">
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<iframe src="https://giphy.com/embed/kEsMM3WFkwMh6yqEaK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kEsMM3WFkwMh6yqEaK">via GIPHY</a></p>
 
 Gracias por pasarte por aqui, salu2.
