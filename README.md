@@ -26,9 +26,6 @@ Aptitudes: HTML · Hojas de estilos en cascada (CSS) · JavaScript · Git · Boo
 LINK: ➡️ https://kdramatunes.netlify.app/ ⬅️
 
 
-🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤
-
-
 # AniMauls 🐶🐸🐽
 (sept. 2023 - actualidad)
 
