@@ -10,7 +10,7 @@ Hola, un cordial saludo mi nombre es Mauricio Alonso Menacho Apolitano, Soy apas
 
 # 📊 Sitios Web:
 
-KDramaTunes! 🎵 🎶 
+# KDramaTunes! 🎵 🎶 
 (Junio. 2024 - actualidad)
 
 KDramaTunes es un proyecto apasionante que he desarrollado para compartir mi amor por la música de los dramas coreanos, mientras demuestro mis habilidades en el desarrollo web. Este reproductor MP3 es una plataforma interactiva que te permite disfrutar de tus bandas sonoras favoritas de K-dramas, integrando tecnologías modernas como HTML, CSS, JavaScript y Bootstrap. Con una interfaz elegante y fácil de usar, KDramaTunes te transporta al mágico mundo de los dramas coreanos a través de sus melodías más icónicas.
@@ -29,7 +29,7 @@ LINK: ➡️ https://kdramatunes.netlify.app/ ⬅️
 🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤🖤
 
 
-AniMauls 🐶🐸🐽
+# AniMauls 🐶🐸🐽
 (sept. 2023 - actualidad)
 
 AniMauls es un emocionante proyecto que he desarrollado para mostrar mi pasión por la naturaleza y los animales, al mismo tiempo que demuestro mis habilidades en el desarrollo web. Esta galería de imágenes es un escaparate interactivo que combina tecnologías modernas.
@@ -46,7 +46,7 @@ LINK: ➡️ https://animauls.netlify.app ⬅️
 
 # 🎮 JUEGOS:
 
-Serpiente Comelona! 🐍 🍎
+# Serpiente Comelona! 🐍 🍎
 (Junio 2024 - actualidad)
 
 Serpiente Comelona es un emocionante proyecto que he desarrollado para compartir mi amor por los juegos clásicos, mientras demuestro mis habilidades en el desarrollo de aplicaciones interactivas. Este juego de serpiente es una plataforma divertida y desafiante que te permite disfrutar del clásico juego de serpiente, integrando tecnologías modernas como Python, Tkinter y Pygame. Con una interfaz colorida y fácil de usar, Serpiente Comelona te transporta a un mundo de diversión y nostalgia mientras guías a tu serpiente para que coma la mayor cantidad de comida posible y crezca sin chocar.
