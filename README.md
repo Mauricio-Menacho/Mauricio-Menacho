@@ -54,7 +54,9 @@ Serpiente Comelona es un emocionante proyecto que he desarrollado para compartir
 Tecnologías Utilizadas:
 
 Lenguaje de Programación: Python
+
 Bibliotecas: Tkinter, Pygame
+
 Aptitudes:
 
 Python
@@ -72,7 +74,8 @@ Características:
 
 Descargar Juego: ➡️ https://www.mediafire.com/file/ihe0cfix7lbuieg/Serpiente_Comelona_By_Mauricio.rar/file ⬅️
 
-<iframe src="https://drive.google.com/file/d/1mShMoOq1XfRT1d1GX6GyoXUEVi4Xe6cV/preview" width="640" height="480" allow="autoplay; encrypted-media" frameborder="0" allowfullscreen></iframe>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1rYjZoNGJxc3V6ZXd0MWZzYXM3eXRsMHMxMWRkbmhkMHFlbG5mNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ldDRJ7BQW0UKP2ZHCr/giphy.gif" alt="Descripción opcional del GIF" style="height: 400px;">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
