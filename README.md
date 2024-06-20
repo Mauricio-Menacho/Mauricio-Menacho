@@ -44,6 +44,36 @@ Aptitudes: HTML · Hojas de estilos en cascada (CSS) · Git · Bootstrap · Java
 
 LINK: ➡️ https://animauls.netlify.app ⬅️
 
+# 🎮 JUEGOS:
+
+Serpiente Comelona! 🐍 🍎
+(Junio 2024 - actualidad)
+
+Serpiente Comelona es un emocionante proyecto que he desarrollado para compartir mi amor por los juegos clásicos, mientras demuestro mis habilidades en el desarrollo de aplicaciones interactivas. Este juego de serpiente es una plataforma divertida y desafiante que te permite disfrutar del clásico juego de serpiente, integrando tecnologías modernas como Python, Tkinter y Pygame. Con una interfaz colorida y fácil de usar, Serpiente Comelona te transporta a un mundo de diversión y nostalgia mientras guías a tu serpiente para que coma la mayor cantidad de comida posible y crezca sin chocar.
+
+Tecnologías Utilizadas:
+
+Lenguaje de Programación: Python
+Bibliotecas: Tkinter, Pygame
+Aptitudes:
+
+Python
+Tkinter (Interfaz Gráfica)
+Pygame (Sonidos)
+Git
+
+Características:
+
+~Interfaz gráfica interactiva y colorida.
+~Sonidos integrados para acciones específicas.
+~Cambio de color de la serpiente basado en el puntaje.
+~Puntaje y puntaje máximo mostrados en pantalla.
+~Funcionalidad para reiniciar el juego fácilmente.
+
+Descargar Juego: ➡️ https://www.mediafire.com/file/ihe0cfix7lbuieg/Serpiente_Comelona_By_Mauricio.rar/file ⬅️
+
+<iframe src="https://drive.google.com/file/d/1mShMoOq1XfRT1d1GX6GyoXUEVi4Xe6cV/preview" width="640" height="480"></iframe>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
