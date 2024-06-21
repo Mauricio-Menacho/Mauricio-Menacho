@@ -23,7 +23,7 @@ Biblioteca: Particles.js
 
 Aptitudes: Desarrollo front end · JavaScript · Git
 
-LINK: ➡️ https://calculadoraplus.netlify.app/ ⬅️
+LINK: ➡️ https://calculadoraplus.netlify.app ⬅️
 
 # KDramaTunes! 🎵 🎶 
 (Abril. 2024 - Mayo. 2024)
@@ -38,7 +38,7 @@ Framework de Diseño: Bootstrap.
 
 Aptitudes: HTML · Hojas de estilos en cascada (CSS) · JavaScript · Git · Bootstrap
 
-LINK: ➡️ https://kdramatunes.netlify.app/ ⬅️
+LINK: ➡️ https://kdramatunes.netlify.app ⬅️
 
 
 # AniMauls 🐶🐸🐽
