@@ -10,7 +10,7 @@ Hola, un cordial saludo mi nombre es Mauricio Alonso Menacho Apolitano, Soy apas
 
 # 📊 Sitios Web:
 
-# WeatherVision 🌤️⛈️ 🌦️❄️
+# WeatherVision 🌤️⛈️🌦️❄️
 (Mayo. 2024 - Junio. 2024)
 
 WeatherVision es un proyecto emocionante que he desarrollado para explorar mi pasión por la programación, mientras demuestro mis habilidades en el desarrollo web. Esta aplicación avanzada del clima es una herramienta interactiva que te permite obtener pronósticos meteorológicos precisos de manera eficiente, integrando tecnologías modernas como HTML, CSS y JavaScript. Utilizando la API de OpenWeatherMap, WeatherVision proporciona datos actualizados y detallados sobre el clima en cualquier ubicación del mundo. Con una interfaz intuitiva y funcional, WeatherVision simplifica la consulta del clima diario, proporcionando una experiencia fluida y eficaz.
