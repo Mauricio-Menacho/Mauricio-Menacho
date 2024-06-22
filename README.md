@@ -10,6 +10,25 @@ Hola, un cordial saludo mi nombre es Mauricio Alonso Menacho Apolitano, Soy apas
 
 # 📊 Sitios Web:
 
+# Mi Portafolio 👨‍💻❤️
+(Abril. 2024 - Actualidad)
+
+🌎 ¡Bienvenidos a mi portafolio web! 👨🏽‍💻
+
+Hola a todos, soy Mauricio y estoy emocionado de compartir con ustedes el proyecto más significativo en el que he estado trabajando. Después de mucho tiempo deseando tener mi propio espacio en la web, finalmente he desarrollado mi portafolio personal. ¡Estoy encantado de presentar la primera versión!
+
+En mi portafolio, encontrarás mis últimos proyectos, mi experiencia y mucho acerca de mi. Estaré actualizando el sitio constantemente.
+
+Tecnologías Utilizadas:
+
+Frontend: HTML, CSS, JavaScript, entre otros.
+
+Bibliotecas: Bootstrap - jQuery - Entre otros.
+
+Aptitudes: Desarrollo front end · JavaScript · Git.
+
+LINK: ➡️ https://mauricio-portafolio.netlify.app ⬅️
+
 # WeatherVision 🌤️⛈️🌦️❄️
 (Mayo. 2024 - Junio. 2024)
 
